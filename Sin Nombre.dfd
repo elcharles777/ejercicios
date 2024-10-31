@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'ingrese el valor a retirar'
+5
+1
+1
+v
+7
+0
+1
+9
+v<=300000
+4
+1
+18
+'saldo insufiente'
+13
+6
+3
+11
+disponible 
+6
+300000
+6
+retiro
+1
+v
+6
+nuevo 
+17
+disponible-retiro
+4
+1
+26
+'valor retirado $', retiro
+4
+1
+33
+'nuevo saldo disponible $', nuevo
+13
+1
