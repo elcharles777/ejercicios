@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+tc
+7
+1500000
+9
+1
+6
+tc > 0
+5
+1
+6
+compra
+7
+0
+1
+12
+compra <= tc
+4
+1
+20
+'Saldo insuficiente'
+13
+6
+1
+2
+tc
+9
+tc-compra
+13
+11
+1
